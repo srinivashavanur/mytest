@@ -9,6 +9,10 @@ Legit costs include sales tax, registry costs, tire recycling fees and a documen
 
 5. This is my car changes.
 
+5. This is newly added. 
+
+5. This is added from testbranch
+
 5. warranty coverage and free maintenance stuff This is changed.
 
 6. car cost after fees and licensing
