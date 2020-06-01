@@ -7,7 +7,11 @@ Legit costs include sales tax, registry costs, tire recycling fees and a documen
 
 4. car been damaged
 
+<<<<<<< HEAD
 5. This is my car changes.
+=======
+5. This is added. 
+>>>>>>> 052bcadd50738014c8f573d812ffcc018cf80bc9
 
 5. This is newly added. 
 
